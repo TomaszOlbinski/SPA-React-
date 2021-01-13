@@ -1,0 +1,17 @@
+.product__title {
+  font-size: 2rem;
+  flex-basis: 100%;
+}
+
+.product__img {
+  width: 600px;
+  height: 400px;
+}
+
+.produck__name {
+  flex-basis: 30%;
+}
+
+.product__link {
+  flex-basis: 100%;
+}
